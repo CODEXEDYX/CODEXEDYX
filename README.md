@@ -16,7 +16,7 @@
   <img align="center" alt="Next.js" heigth="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Next.js" heigth="200" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> 
   <img align="center" alt="Next.js" heigth="100" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-          
+  <img align="center" alt="Next.js" heigth="100" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />       
           
 </div>
   
